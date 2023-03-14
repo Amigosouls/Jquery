@@ -19,3 +19,13 @@
     background-image: url(/img/22z.gif);
     
 }
+
+.container{ 
+     background-image: linear-gradient(to right, red , blue);
+     color: cyan;
+     font-weight: bolder;
+}
+.container>h3{
+    text-align: center;
+    padding: 30px;
+}
