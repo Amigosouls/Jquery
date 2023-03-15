@@ -29,3 +29,22 @@
     text-align: center;
     padding: 30px;
 }
+.unameerror{
+    color:cyan;
+    background-color: antiquewhite;
+}
+.hide{
+    visibility: hidden;
+}
+.pswderror{
+    color:cyan;
+    background-color: rgb(0, 0, 0);
+}
+.emailerror{
+    color:cyan;
+    background-color: rgb(255, 255, 255);
+}
+.pherror{
+    color:cyan;
+    background-color: rgb(255, 255, 255);
+}
